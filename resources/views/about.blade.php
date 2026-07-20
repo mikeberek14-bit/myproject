@@ -12,16 +12,16 @@
             <div class="space-y-6 text-left">
                 <!-- Judul -->
                 <h1 class="text-4xl md:text-5xl font-extrabold text-[#17433F] leading-tight">
-                    About Byte & Brew
+                Cerita Kami
                 </h1>
                 
 
                 <div class="space-y-4 text-neutral-600 text-lg leading-relaxed">
                     <p>
-                        Byte & Brew Coffee & Eatery adalah kedai kopi laboratorium pembelajaran digital dari Himatifta Universitas Dr. Soetomo Surabaya. Tempat di mana kopi berkualitas premium bertemu dengan pengalaman digital yang modern dan nyaman.
+                        Berawal dari kecintaan terhadap kopi dan inovasi, Byte & Brew Coffee & Eatery hadir sebagai tempat berkumpul yang mengutamakan kualitas, kenyamanan, dan pengalaman pelanggan. Setiap sajian dibuat menggunakan bahan pilihan untuk menghadirkan cita rasa terbaik.
                     </p>
                     <p>
-                        Kami berkomitmen untuk menyediakan ruang kreatif bagi mahasiswa untuk belajar, berkolaborasi, dan berinovasi dengan dukungan fasilitas teknologi modern serta sajian kopi kualitas terbaik.
+                      Tidak hanya menjadi tempat menikmati kopi, Byte & Brew juga menjadi ruang bagi mahasiswa, pekerja, dan masyarakat untuk belajar, berdiskusi, maupun mengembangkan ide-ide kreatif dalam suasana yang hangat dan modern. 
                     </p>
                 </div>
             </div>
