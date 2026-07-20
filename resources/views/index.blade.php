@@ -21,7 +21,7 @@
                 </h1>
                 
                 <p class="text-lg text-neutral-300 max-w-lg leading-relaxed font-normal" style="font-family: 'Plus Jakarta Sans', sans-serif;">
-                    Nikmati kopi premium pilihan dengan kemudahan pemesanan digital langsung dari meja Anda. Solusi modern untuk ruang bersantai dan produktivitas yang efisien.
+                   Pesan kopi favorit langsung dari meja Anda. Nikmati sajian kualitas terbaik tanpa mengganggu momen santai atau alur kerja Anda.
                 </p>
                 
                 <div class="flex flex-col sm:flex-row gap-4 pt-4">

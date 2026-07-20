@@ -16,7 +16,7 @@
             </div>
 
             <div class="space-y-3">
-                <h3 class="text-neutral-800 text-sm font-semibold tracking-wider uppercase">Tautan Cepa            <ul class="space-y-2 text-sm">
+                <h3 class="text-neutral-800 text-sm font-semibold tracking-wider uppercase"> Tautan Cepat<ul class="space-y-2 text-sm">
                     <li><a href="{{ url('/') }}" class="text-neutral-500 hover:text-[#20622c] hover:underline transition-all">Beranda</a></li>
                     <li><a href="{{ url('/about') }}" class="text-neutral-500 hover:text-[#20622c] hover:underline transition-all">Tentang Kami</a></li>
                     <li><a href="{{ url('/menu') }}" class="text-neutral-500 hover:text-[#20622c] hover:underline transition-all">Menu Kopi</a></li>

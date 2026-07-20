@@ -29,7 +29,7 @@
                 <a href="{{ url('/gallery') }}" class="text-sm font-medium tracking-wide pb-1 transition-all duration-300 border-b-2 {{ Request::is('gallery') ? 'text-[#20622c] border-[#20622c]' : 'text-neutral-600 border-transparent hover:text-[#20622c]' }}">
                     Galeri
                 </a>
-                <a href="{{ url('/order/dine-in') }}" class="text-sm font-medium tracking-wide pb-1 transition-all duration-300 border-b-2 {{ Request::is('gallery') ? 'text-[#20622c] border-[#20622c]' : 'text-neutral-600 border-transparent hover:text-[#20622c]' }}">
+                <a href="{{ url('/order/dine-in') }}" class="text-sm font-medium tracking-wide pb-1 transition-all duration-300 border-b-2 {{ Request::is('order/dine-in') ? 'text-[#20622c] border-[#20622c]' : 'text-neutral-600 border-transparent hover:text-[#20622c]' }}">
                     Dine In
                 </a>   
 

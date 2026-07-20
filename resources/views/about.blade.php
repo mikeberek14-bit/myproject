@@ -11,8 +11,8 @@
 
             <div class="space-y-6 text-left">
                 <!-- Judul -->
-                <h1 class="text-4xl md:text-5xl font-extrabold text-[17433F] leading-tight">
-                    KOPI MIKI
+                <h1 class="text-4xl md:text-5xl font-extrabold text-[#17433F] leading-tight">
+                    About Byte & Brew
                 </h1>
                 
 

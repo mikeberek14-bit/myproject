@@ -5,6 +5,7 @@ use App\Http\Controllers\CafeController;
 Route::get('/', [CafeController::class, 'index']);
 Route::get('/about', [CafeController::class, 'about']);
 Route::get('/menu', [CafeController::class, 'menu']);
+ROute::get('/gallery',[cafeController::class, 'gallery']);
 
 Route::get('/order/dine-in', [CafeController::class, 'dineIn']);
 Route::post('/order/dine-in', [CafeController::class, 'storeOrder']);
