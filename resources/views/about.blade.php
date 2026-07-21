@@ -12,16 +12,16 @@
             <div class="space-y-6 text-left">
                 <!-- Judul -->
                 <h1 class="text-4xl md:text-5xl font-extrabold text-[#17433F] leading-tight">
-                Cerita Kami
+                Tentang Byte & Brew
                 </h1>
                 
 
                 <div class="space-y-4 text-neutral-600 text-lg leading-relaxed">
                     <p>
-                        Berawal dari kecintaan terhadap kopi dan inovasi, Byte & Brew Coffee & Eatery hadir sebagai tempat berkumpul yang mengutamakan kualitas, kenyamanan, dan pengalaman pelanggan. Setiap sajian dibuat menggunakan bahan pilihan untuk menghadirkan cita rasa terbaik.
+                           Byte & Brew Coffee & Eatery hadir sebagai coffee shop yang mengutamakan kualitas, kenyamanan, dan pengalaman terbaik bagi setiap pelanggan. Kami menyajikan berbagai pilihan kopi dan hidangan yang dibuat dari bahan-bahan pilihan untuk menghadirkan cita rasa terbaik dalam setiap sajian.
                     </p>
                     <p>
-                      Tidak hanya menjadi tempat menikmati kopi, Byte & Brew juga menjadi ruang bagi mahasiswa, pekerja, dan masyarakat untuk belajar, berdiskusi, maupun mengembangkan ide-ide kreatif dalam suasana yang hangat dan modern. 
+                        Lebih dari sekadar tempat menikmati kopi, Byte & Brew menjadi ruang yang nyaman bagi mahasiswa, pekerja, dan masyarakat untuk belajar, bekerja, berdiskusi, maupun bersantai. Dengan suasana yang hangat dan pelayanan yang ramah, kami berkomitmen menciptakan pengalaman yang berkesan bagi setiap pengunjung. 
                     </p>
                 </div>
             </div>
